@@ -1,6 +1,6 @@
 # Django-Hotel-Booking-System
-It is A Hotel Room Booking Website developed using DRF
 
+It is A Hotel Room Booking Website developed using DRF
 <b>Features For Normal Users</b>
 <ul>
   <li>Separate Login and Signup page</li>
